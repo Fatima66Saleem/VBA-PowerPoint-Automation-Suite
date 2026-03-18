@@ -1,7 +1,8 @@
 # Calculator Project
 This project is a fully functional Graphical User Interface (GUI) Calculator developed during my 1st Semester. Unlike standard presentations, this project uses VBA (Visual Basic for Applications) to perform real-time mathematical calculations within PowerPoint slides.
 
-## Key Features Basic Arithmetic: 
+## Key Features 
+### Basic Arithmetic: 
 Supports Addition, Subtraction, Multiplication, and Division
 
 ### Event-Driven Programming: 
@@ -20,7 +21,8 @@ Addition: Label4.Caption = Val(TextBox1.Text) + Val(TextBox2.Text)
 
 Reset Logic: Sets TextBox.Text and Label.Caption to empty strings ""
 
-Code Snippets: 
+### Code Snippets:
+
 Addition Operation: Private Sub CommandButton1_Click() Label4.Caption = Val(TextBox1.Text) + Val(TextBox2.Text) End Sub
 
 Subtraction Operation: Private Sub CommandButton2_Click() Label4.Caption = Val(TextBox1.Text) - Val(TextBox2.Text) End Sub
@@ -40,7 +42,7 @@ View the result instantly
 Click CLEAR to reset
 
 ## Requirements
-Microsoft PowerPoint (2010 or later) 
+Microsoft PowerPoint (2010 or later)
 Macros must be enabled
 
 ## Preview

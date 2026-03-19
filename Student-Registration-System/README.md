@@ -4,28 +4,28 @@ A complete registration form interface developed using VBA UserForms, featuring 
 
 ## Key Features
 ### Login Authentication
-Secure access using Username and Password validation
+* Secure access using Username and Password validation
 
 ### Dynamic Input Controls
 #### SpinButton
 
-Used to increment and decrement the Age field
+* Used to increment and decrement the Age field
 
 #### ComboBox and ListBox
 
-Dynamically populated with Cities: Sahiwal, Pakpattan, and more
+* Dynamically populated with Cities: Sahiwal, Pakpattan, and more
 
-Dynamically populated with Departments: Computer Science, Software Engineering
+* Dynamically populated with Departments: Computer Science, Software Engineering
 
 #### Selection Controls
 
-OptionButtons for Gender selection
+* OptionButtons for Gender selection
 
-CheckBoxes for Course selection
+* CheckBoxes for Course selection
 
 #### Image Integration
 
-Dynamically loads a student profile picture using the LoadPicture property
+* Dynamically loads a student profile picture using the LoadPicture property
 
 ## Preview
 <img width="1651" height="844" alt="Screenshot 2024-07-22 105311" src="https://github.com/user-attachments/assets/238fce7f-08d2-49cc-9b73-7e51df603620" />

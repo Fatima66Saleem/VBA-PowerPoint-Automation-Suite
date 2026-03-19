@@ -33,10 +33,7 @@ Implements Frame.Visible = True/False logic to create a clean, single-screen int
 
 ## Preview
 <img width="1664" height="850" alt="Screenshot 2024-07-07 205650" src="https://github.com/user-attachments/assets/7e2c6990-6a0e-4813-99bf-9b9f7ad355b9" />
-<img width="1664" height="850" alt="Screenshot 2024-07-07 205650" src="https://github.com/user-attachments/assets/7e2c6990-6a0e-4813-99bf-9b9f7ad355b9" />
 <img width="1597" height="828" alt="Screenshot 2024-07-07 212127" src="https://github.com/user-attachments/assets/8097212e-0794-4a19-b18b-338b4b256687" />
-<img width="1597" height="828" alt="Screenshot 2024-07-07 212127" src="https://github.com/user-attachments/assets/8097212e-0794-4a19-b18b-338b4b256687" />
-<img width="1057" height="828" alt="Screenshot 2024-07-07 205828" src="https://github.com/user-attachments/assets/39479e12-0515-4532-abd6-0362225ad64c" />
 <img width="1057" height="828" alt="Screenshot 2024-07-07 205828" src="https://github.com/user-attachments/assets/39479e12-0515-4532-abd6-0362225ad64c" />
 
 

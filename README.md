@@ -1,73 +1,45 @@
-VBA GUI Calculator (Built in PowerPoint)
-Project Overview
-This project is a fully functional Graphical User Interface (GUI) Calculator developed during my 1st Semester. Unlike standard presentations, this project uses VBA (Visual Basic for Applications) to perform real-time mathematical calculations within PowerPoint slides.
+## 📂 Featured Projects
+### * 1. GUI Calculator
+A functional calculator capable of basic arithmetic operations.
 
-Key Features
-Basic Arithmetic: Supports Addition, Subtraction, Multiplication, and Division
+Key Features: Addition, Subtraction, Multiplication, Division, and a 'Clear' function.
 
-Event-Driven Programming: Uses CommandButton_Click events to trigger calculations
+Logic: Uses Val() function for numeric input processing.
 
-Clear Functionality: Includes a Clear button to reset all input fields and the result label
+Link: [View Folder](./Calculator-App)
 
-Dynamic Input: Users can enter numbers in text boxes and see the result instantly
+### * 2. Automated Result Card System
+An academic tool that calculates total marks and determines pass/fail status.
 
-Technical Logic (VBA Code)
-The backend logic is handled via VBA scripts. For example:
+Key Features: Automatic summation of subjects (ICT, English, Physics).
 
-Addition: Label4.Caption = Val(TextBox1.Text) + Val(TextBox2.Text)
+Logic: Conditional If-Else statements to validate marks (>= 40).
 
-Reset Logic: Sets TextBox.Text and Label.Caption to empty strings ""
+Link: [View Folder](./Result-Card-System)
 
-Code Snippets
-Addition Operation
-Private Sub CommandButton1_Click()
-Label4.Caption = Val(TextBox1.Text) + Val(TextBox2.Text)
-End Sub
+### * 3. Multi-Unit Converter
+An advanced conversion tool with a sidebar navigation menu.
 
-Subtraction Operation
-Private Sub CommandButton2_Click()
-Label4.Caption = Val(TextBox1.Text) - Val(TextBox2.Text)
-End Sub
+Key Features: Converts Weight, Temperature, Energy, Time, and Length.
 
-Multiplication Operation
-Private Sub CommandButton3_Click()
-Label4.Caption = Val(TextBox1.Text) * Val(TextBox2.Text)
-End Sub
+Logic: Uses Frame.Visible properties to manage multiple GUI screens within a single UserForm.
 
-Division Operation
-Private Sub CommandButton4_Click()
-Label4.Caption = Val(TextBox1.Text) / Val(TextBox2.Text)
-End Sub
+Link: [View Folder](./Multi-Unit-Converter)
 
-Clear Function
-Private Sub CommandButton5_Click()
-TextBox1.Text = ""
-TextBox2.Text = ""
-Label4.Caption = ""
-End Sub
+### * 4. Student Registration System
+A professional-grade registration form with secure access.
 
-How to Use
-Open the PowerPoint file
+Key Features: Login Authentication, SpinButtons for age, and dynamic ComboBoxes.
 
-Enable Macros when prompted
+Logic: Implements UserForm_Initialize to auto-populate data and LoadPicture for profile images.
 
-Enter numbers in the two text boxes
+Link: [View Folder](./Student-Registration-System)
 
-Click on any operation button (+, -, ×, ÷)
+## 🛠️ Technical Skills Demonstrated
+Languages: VBA (Visual Basic for Applications)
 
-View the result instantly
+GUI Design: UserForms, Frames, Multi-page navigation.
 
-Click CLEAR to reset
+Programming Logic: Data validation, Conditional branching, Arithmetic algorithms.
 
-Requirements
-Microsoft PowerPoint (2010 or later)
-Macros must be enabled
-
-Preview
-<img width="972" height="733" alt="Calculator Frontend" src="https://github.com/user-attachments/assets/9320fe33-9709-4266-8332-c9efc14fd677" />
-<img width="897" height="536" alt="Calculator code 1" src="https://github.com/user-attachments/assets/12b625b9-5976-4a0f-a4f7-724236fda229" />
-<img width="1021" height="610" alt="Calculator code 2" src="https://github.com/user-attachments/assets/ddb9259f-16ca-4885-aadd-ab683cf86292" />
-
-
-Developed by: Fatima Saleem
-Semester: 1st Semester Project
+Tools: Microsoft PowerPoint Developer Tools.

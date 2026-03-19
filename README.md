@@ -1,5 +1,5 @@
 ## 📂 Featured Projects
-### * 1. GUI Calculator
+### 1. GUI Calculator
 A functional calculator capable of basic arithmetic operations.
 
 Key Features: Addition, Subtraction, Multiplication, Division, and a 'Clear' function.
@@ -8,7 +8,7 @@ Logic: Uses Val() function for numeric input processing.
 
 Link: [View Folder](./Calculator-App)
 
-### * 2. Automated Result Card System
+### 2. Automated Result Card System
 An academic tool that calculates total marks and determines pass/fail status.
 
 Key Features: Automatic summation of subjects (ICT, English, Physics).
@@ -17,7 +17,7 @@ Logic: Conditional If-Else statements to validate marks (>= 40).
 
 Link: [View Folder](./Result-Card-System)
 
-### * 3. Multi-Unit Converter
+### 3. Multi-Unit Converter
 An advanced conversion tool with a sidebar navigation menu.
 
 Key Features: Converts Weight, Temperature, Energy, Time, and Length.
@@ -26,7 +26,7 @@ Logic: Uses Frame.Visible properties to manage multiple GUI screens within a sin
 
 Link: [View Folder](./Multi-Unit-Converter)
 
-### * 4. Student Registration System
+### 4. Student Registration System
 A professional-grade registration form with secure access.
 
 Key Features: Login Authentication, SpinButtons for age, and dynamic ComboBoxes.

@@ -7,9 +7,9 @@ A complete registration form interface developed using VBA UserForms, featuring 
 * Secure access using Username and Password validation
 
 ### Dynamic Input Controls
-* SpinButton
+#### SpinButton
 
-- Used to increment and decrement the Age field
+* Used to increment and decrement the Age field
 
 #### ComboBox and ListBox
 

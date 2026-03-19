@@ -38,7 +38,10 @@ Implements Frame.Visible = True/False logic to create a clean, single-screen int
 
 
 ## Developed By
-Name: Fatima Saleem
-Semester: 1st Semester Project
+#### Name: 
+Fatima Saleem
+
+### Semester: 
+1st Semester Project
 
 
